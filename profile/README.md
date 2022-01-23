@@ -1,6 +1,7 @@
-[AMPHP (Asynchronous Multitasking PHP)](https://amphp.org) is a framework for writing non-blocking, concurrent code in PHP.
+[AMPHP](https://amphp.org) is a collection of event-driven libraries for PHP designed with fibers and concurrency in mind.
 
-We provide a complete stack of production-ready components to write an async application in PHP.
+We provide a complete stack of production-ready libraries to write application using non-blocking I/O in PHP.
+
 - HTTP [Server](https://github.com/amphp/http-server) and [Client](https://github.com/amphp/http-client)
 - [Postgres](https://github.com/amphp/postgres) and [MySQL](https://github.com/amphp/mysql) clients
 - [Redis Client](https://github.com/amphp/redis)
