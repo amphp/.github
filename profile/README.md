@@ -1,4 +1,4 @@
-[AMPHP](https://amphp.org) is a collection of event-driven libraries for PHP designed with fibers and concurrency in mind.
+[AMPHP](https://amphp.org) is a collection of high-quality, event-driven libraries for PHP designed with fibers and concurrency in mind.
 
 We provide a complete stack of production-ready libraries to write application using non-blocking I/O in PHP.
 
@@ -13,4 +13,4 @@ We provide a complete stack of production-ready libraries to write application u
 - [DNS](https://github.com/amphp/dns)
 - [Synchronization Tools](https://github.com/amphp/sync)
 
-See our full list of libraries and documentation at [amphp.org](https://amphp.org).
+See our full list of libraries and documentation at [amphp.org](https://amphp.org). Consider [sponsoring our work](https://github.com/sponsors/amphp) if you find it useful!
