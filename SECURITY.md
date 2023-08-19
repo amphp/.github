@@ -1,6 +1,8 @@
 Security Policy
 ===============
 
-If you have discovered an issue that might have security implications, please send a report to contact@amphp.org.
+If you discover any security related issues, please use the private security issue reporter instead of using the public issue tracker.
 
-DO NOT PUBLISH SECURITY REPORTS PUBLICLY.
+You can also send your report to contact@amphp.org.
+
+**Do not publish security vulnerability reports publicly.**
